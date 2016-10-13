@@ -1,0 +1,32 @@
+/*typographic styles*/
+.content-header {
+  font-family: 'Roboto Slab', serif;
+}
+/*custom header styles*/
+.left-space {
+  margin-left: 70px;
+}
+.right-space{
+  margin-right:70px;
+}
+#dropdown1 li a:hover {
+  background-color: #f5f5f5;
+}
+.more-list{
+  margin-top: 64px;
+}
+/*block of study cards*/
+.first-study-line {
+  margin-top: 100px;
+}
+.ed-item :hover{
+  color:#039be5;
+}
+.card-item {
+  width:350px;
+  font-family: "Roboto Slab";
+  font-size: 19px;
+}
+.card-image img{
+  height:200px;
+}
