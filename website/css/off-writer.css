@@ -1,32 +1,39 @@
 /*typographic styles*/
 .content-header {
-  font-family: 'Roboto Slab', serif;
+    font-family: 'Roboto Slab', serif;
 }
 /*custom header styles*/
 .left-space {
-  margin-left: 70px;
+    margin-left: 70px;
 }
-.right-space{
-  margin-right:70px;
+.right-space {
+    margin-right: 70px;
 }
 #dropdown1 li a:hover {
-  background-color: #f5f5f5;
+    background-color: #f5f5f5;
 }
-.more-list{
-  margin-top: 64px;
+.more-list {
+    margin-top: 64px;
 }
 /*block of study cards*/
-.first-study-line {
-  margin-top: 100px;
+.subject-page-cards-wrap{
+  width:96%;
+  margin-left:4%;
 }
-.ed-item :hover{
-  color:#039be5;
+.first-study-line {
+    margin-top: 100px;
+}
+.col .card-inner-width {
+  width:350px;
 }
 .card-item {
-  width:350px;
-  font-family: "Roboto Slab";
-  font-size: 19px;
+    width: 350px;
+    font-family: "Roboto Slab";
+    font-size: 19px;
 }
-.card-image img{
-  height:200px;
+.card-item:hover{
+  color: #039be5;
+}
+.card-image img {
+    height: 200px;
 }
