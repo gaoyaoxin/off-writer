@@ -30,11 +30,12 @@
     width: 350px;
     font-family: "Roboto Slab";
     font-size: 19px;
-}
-.card-item:hover{
-  color: #039be5;
-}
+ }
 .card-image img {
     height: 200px;
-    
+
+}
+.height-fixed-card {
+  min-height:180px;
+  height:180px;
 }
